@@ -22,7 +22,8 @@ pry
 [gitbook](https://www.gitbook.com)
 
 
-useful links:
+### useful links:
+
 http://www.preparetocode.io/mac/essential/
 
 http://jilles.me/badassify-your-terminal-and-shell/
